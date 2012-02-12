@@ -1,0 +1,54 @@
+/* 
+   Localizable.strings
+   Resume
+
+   Created by capricorn on 12-1-26.
+   Copyright 2012 Capricorn. All rights reserved.
+ */
+
+// BasicInfoController start
+"BS_Title" = "Basic Info";
+
+"BS_Skill" = "● English: CET-6, Reading & Writing (good), Listening & Speaking (poor).
+● Programming:
+   Java (good)/ C (average)/ Ruby (basic)/ 
+   Objective-C (basic)/ Python (basic)/
+   Lisp (basic)
+   Android (good)/ iOS (basic)
+   Vim (average)/ Emacs (basic)
+   Design patterns (basic)";
+// BasicInfoController end
+
+// ExperienceController start
+"EX_Title" = "Work Experience";
+
+"EX_Experience0" = "2010/7 -- Present Android Programmer
+Type: full-time
+Description: 
+   Android apps about stock for both mobile phone and tablet.
+   Be familiar with the UI development of android and the methods of using NDK, sqlite. Know about the life cycle and interactive process well. Have my own thoughts in the solution to fiting screen and version compatibility.  
+   I tried to solve several difficult problems in my own way, two of them are listed in the following:
+   Switching activities was realized through gesture dectection, which is similar to the effect of the Launcher. I know how it being drawn and interrupted well because of this experience.
+   The widget need to refresh data continuously, but there is no api to judge the visibility of the widget thus wasting lots of data. After many times, I found the way to get the visibility of the \'Launcher\', and solve the problem partly.";
+
+"EX_Experience1" = "2009/12 -- 2010/5 MTK Programmer
+Type: part-time
+Description: 
+   Porting mobile games (from J2ME to MTK).
+   The experience let me know the base process of game, and make me know Java and C better.";
+// ExperienceController end
+
+// AboutController start
+"About_Title" = "About Me";
+
+"About_SubTitle0" = "Self Introduce";
+"About_Content0" = "   A typical Capricorn: upright, conscientious, self-knowing, independent.
+   I like the things that are simple but elegant, or creative.
+   I\'m eager to draw out my latent talents in work.";
+
+"About_SubTitle1" = "Interest & Hobby";
+"About_Content1" = "computer, anime and comic";
+
+"About_SubTitle2" = "Idol";
+"About_Content2" = "Leonardo da Vinci";
+// AboutController end

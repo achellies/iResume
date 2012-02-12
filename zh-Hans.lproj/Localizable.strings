@@ -1,0 +1,51 @@
+/* 
+   Localizable.strings
+   Resume
+
+   Created by capricorn on 12-1-26.
+   Copyright 2012 Capricorn. All rights reserved.
+ */
+
+// BasicInfoController start
+"BS_Title" = "基本信息";
+"BS_Skill" = "● 外语水平：CET-6，读写良好，听说较差。
+● 编程相关：
+   Java (良好)/ C (一般)/ Ruby (了解)/ 
+   Objective-C (了解)/ Python (了解)/
+   Lisp (了解)
+   Android (良好)/ iOS (了解)
+   Vim (一般)/ Emacs (了解)
+   设计模式 (了解)";
+// BasicInfoController end
+
+// ExperienceController start
+"EX_Title" = "工作经历";
+"EX_Experience0" = "2010/7 -- 至今 Android程序员
+类型: 全职
+工作内容:
+        股票软件android手机及平板客户端开发。
+        掌握android的UI开发、NDK及sqlite的使用，熟悉程序的生命周期、用户交互的过程。对于屏幕适配与版本兼容的解决之道有自己的心得。
+        以独创的方式尝试解决了几个较困难的问题，这里例举其中两个：
+        实现了通过手势滑动切换Activity，效果类似于Launcher。过程中，对于触摸事件的传递及处理机制，以及界面的展现过程有深入的了解。
+        Widget需要不断刷新数据，但系统本身并没有直接判断其是否可见的api，导致浪费大量流量。经过不断尝试，通过获取Launcher的可见性，部分地解决了这个问题。";
+"EX_Experience1" = "2009/12 -- 2010/5 MTK程序员
+类型: 兼职
+工作内容:
+        用C语言移植J2ME平台下的游戏。
+        通过此次经验了解了游戏的基本流程，加强并巩固了对于C和Java的掌握。";
+// ExperienceController end
+
+// AboutController start
+"About_Title" = "关于我";
+
+"About_SubTitle0" = "自我介绍";
+"About_Content0" = "        典型的摩羯座：正直、认真、自知、独立。
+        喜欢简单而优雅、有创意和新颖的事物。
+        在工作中，渴望尽可能发挥和挖掘自己的才智和潜能。";
+
+"About_SubTitle1" = "兴趣爱好";
+"About_Content1" = "计算机、动漫";
+
+"About_SubTitle2" = "最崇拜的人";
+"About_Content2" = "达•芬奇";
+// AboutController end
